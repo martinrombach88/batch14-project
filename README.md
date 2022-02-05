@@ -10,7 +10,7 @@ in the website.
 My contributions were:
 - Creating diagrams to understand the structure of the website
 - Managing the CSS throughout the site to keep it consistent
-- Managing Git and Github, focussing on avoiding errors and applying global CSS during merges
+- Managing Git and Github, focussing on avoiding errors and ensuring CSS consistency during merges
 - Building the course list page
 - Building the create/edit/delete post page
 - Adding an image uploader to the user profile page
