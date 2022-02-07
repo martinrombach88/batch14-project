@@ -12,5 +12,5 @@ My contributions were:
 - Managing the CSS throughout the site to keep it consistent
 - Managing Git and Github, focussing on avoiding errors and ensuring CSS consistency during merges
 - Completed a course list page where I created a database table, added functions to the controller and model with PHP, and built a course view.
-- Building the create/edit/delete post page, adding functions to the controller and model and manipulating the DOM and database via Javascript
+- Building the create/edit/delete post page, adding functions to the controller and model and manipulating the DOM and database via Javascript, MySql and PHP
 - Adding an image uploader to the user profile page
