@@ -8,11 +8,8 @@ The school portal is built three user account system with admin, teacher and stu
 
 ## Demo
 
-<kbd><img src="/src/images/git_repo_screen.gif" /></kbd>
- 
+<kbd><img src="/public/images/school_screen.gif" /></kbd>
 
-
-This website was 
 
 
 
