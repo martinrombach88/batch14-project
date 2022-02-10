@@ -1,11 +1,20 @@
-**School Portal**
+## School Portal
 
-This website was a group project built together with 4 other programming students in the final month of study at wCoding.
+A group project built together with 4 other programming students in the final month of study at wCoding. The portal is built three user account system, with admin, teacher and student accounts access to post creation exclusively for teachers and access to course and user creation exclusively for admin.
 
-Project used PHP and HTML in an MVC structure, with Javascript attached to individual view pages.
+**Tech: PHP, CSS, Javascript, MVC, MySQL, Trello**
 
-The school portal has a three user account system, with admin, teacher and student accounts having different levels of functionality
-in the website.
+## Demo
+
+<kbd><img src="/src/images/git_repo_screen.gif" /></kbd>
+ 
+
+
+This website was 
+
+
+
+
 
 My contributions were:
 - Creating diagrams to understand the structure of the website
