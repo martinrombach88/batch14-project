@@ -8,10 +8,7 @@ The school portal is built three user account system with admin, teacher and stu
 
 ## Demo
 
-https://youtu.be/9vG8Z10I9Hk
-
-
-
+For a live demo, use the video below. If you would like to test the code yourself, please contact me directly to obtain username and password information.
 
 <a href="https://www.youtube.com/watch?v=9vG8Z10I9Hk"><img src="https://www.martinrombachdev.com/assets/images/school_demo.png" /></a>
 
