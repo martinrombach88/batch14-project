@@ -1,14 +1,8 @@
 ## School Portal
 
-A group project built together with 4 other programming students in the final month of study at wCoding. The portal is built three user account system, with admin, teacher and student accounts access to post creation exclusively for teachers and access to course and user creation exclusively for admin.
+A group project built with 4 other students at wCoding.
 
-My contributions:
-- Completed a course list page where I created a database table, added functions to the controller and model with PHP, and built a course view.
-- Building the create/edit/delete post page, adding functions to the controller and model and manipulating the DOM and database via Javascript, MySql and PHP
-- Adding an image uploader to the user profile page
-- Creating diagrams to understand the structure of the website
-- Managing the CSS throughout the site to keep it consistent
-- Managing Git and Github, focussing on avoiding errors and ensuring CSS consistency during merges
+The school portal is built three user account system with admin, teacher and student accounts. Account have different access, with access to post creation exclusively for teachers and access to course and user creation exclusively for admin. Teachers can create posts in their assign courses with links to external files and due dates, as well as upload a profile image. Admin can make courses, assign them teachers and students, as well as creating the user accounts themselves.
 
 **Tech: PHP, CSS, Javascript, MVC, MySQL, Trello**
 
