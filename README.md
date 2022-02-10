@@ -12,8 +12,6 @@ https://youtu.be/9vG8Z10I9Hk
 
 
 
-[![school portal](https://www.martinrombachdev.com/assets/school_demo.png)]()
 
-
-<a href="https://www.youtube.com/watch?v=9vG8Z10I9Hk"><kbd><img src="/assets/images/school_demo.png" /></kbd></a>
+<a href="https://www.youtube.com/watch?v=9vG8Z10I9Hk"><kbd><img src="/public/assets/images/school_demo.png" /></kbd></a>
 
