@@ -8,10 +8,10 @@ The school portal is built three user account system with admin, teacher and stu
 
 ## Demo
 
-<kbd><img src="/public/images/school_screen.gif" /></kbd>
+https://youtu.be/9vG8Z10I9Hk
 
 
 
-
+[![school portal](https://www.martinrombachdev.com/assets/school_demo.png)](https://www.youtube.com/watch?v=9vG8Z10I9Hk)
 
 
