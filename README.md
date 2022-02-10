@@ -13,5 +13,5 @@ https://youtu.be/9vG8Z10I9Hk
 
 
 
-<a href="https://www.youtube.com/watch?v=9vG8Z10I9Hk"><kbd><img src="/public/images/school_demo.png" /></kbd></a>
+<a href="https://www.youtube.com/watch?v=9vG8Z10I9Hk"><img src="/public/images/school_demo.png" /></a>
 
