@@ -12,6 +12,8 @@ https://youtu.be/9vG8Z10I9Hk
 
 
 
-[![school portal](https://www.martinrombachdev.com/assets/school_demo.png)](https://www.youtube.com/watch?v=9vG8Z10I9Hk)
+[![school portal](https://www.martinrombachdev.com/assets/school_demo.png)]()
 
+
+<kbd><a href="https://www.youtube.com/watch?v=9vG8Z10I9Hk"><img src="/assets/images/weather_screen.gif" /></a></kbd>
 
